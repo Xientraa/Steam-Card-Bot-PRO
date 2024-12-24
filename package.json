@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "title Refloow / Steam-Card-Bot-PRO & node index.js pause"
+    "start": "title Refloow / Steam-Card-Bot-PRO & node index.js pause",
+    "updatedb": "node updatedb.js"
   },
   "repository": {
     "type": "git",
